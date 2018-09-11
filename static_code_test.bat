@@ -1,0 +1,1 @@
+C:\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\Scripts\pylint TimeRecord0.26.py > code_test_output.txt
